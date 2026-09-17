@@ -1,4 +1,6 @@
 # Top RPG Games of 2026
+![Futuristic 2026 RPG concept art placeholder](images/rpg-games.png)
+
 **Date:** September 2026
 
 Role-playing games in 2026 focus heavily on deep choice-driven narratives. Massive open worlds offer unparalleled player freedom and immersive mechanics.

@@ -5,3 +5,6 @@ Edit rpg-games.md and action-games.md. Give each a title, date, two short senten
 
 ## Revision Prompt
 Make both pages shorter.
+
+## Commit 3 Image Prompt
+Generate high-quality concept art for a futuristic 2026 RPG and a high-octane 2026 action game scene.

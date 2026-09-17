@@ -1,4 +1,6 @@
 # Top Action Games of 2026
+![High-octane 2026 action game concept art placeholder](images/action-games.png)
+
 **Date:** September 2026
 
 Action titles this year are setting new high benchmarks for fluid movement mechanics. Next-generation physics engines make fast-paced combat feel incredibly realistic.
